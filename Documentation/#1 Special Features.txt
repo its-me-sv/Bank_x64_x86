@@ -1,0 +1,30 @@
+#1	
+	An Notification Is Sent To The User's Phone When
+	He/She Creates An Account With An Valid Phone Number.
+   
+#2	
+	While Signing In To User's Account, The User Can Use
+	His/Her Phone Number Or Username To Log In.
+
+#3	
+	The User Will Get 2 - 3 Chances For Signing In With
+	Valid Login Details.
+	
+#4	
+	The User Can Change His/Her Name, Phone Number, Username,
+	And Password In The Settings.
+	
+#5 	
+	User Can See His/Her Transaction Details In The Passbook.
+
+#6	
+	An Notification Is Sent To The User's Phone When He/She Does 
+	Transactions In The Payments.
+	
+#7	
+	While Transferring Money, An Notification Is Sent To Both The Person Who
+	Is Sending The Money And Recieving The Money.
+	
+#8	
+	After Logging Out, The Amount Of Time The User Has Spent In The Application
+	Will Be Displayed.

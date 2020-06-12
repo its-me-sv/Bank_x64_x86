@@ -1,0 +1,127 @@
+Classes :
+*********
+	
+	Passbook() :
+		
+		Private Member(s) :
+			
+			Data Member(s) : 
+				
+				int : 
+					transaction_no -> To Store The Transaction Number.
+				
+				str :
+					date_of_transaction -> To Store The Transaction Date.
+					type_of_transaction -> To Store The Mode Of Transaction (Either Deposit Or Withdraw Or Transfer).
+					source -> To Store The Information Of Where Money Came From(Either Bank/ATM Or Online Transfer).
+					amount -> To Store The Amount With Which Operation To Be Done.
+					balance_after_transaction -> To Store The Account Balance Of The User.
+			
+			Member Function(s) :
+				
+				NONE
+		
+		Public Member(s) :
+			
+			Data Member(s) :
+				
+				NONE
+			
+			Member Function(s):
+				
+				Assign(TRANSACTION_NO, DATE_OF_TRANSACTION, TYPE_OF_TRANSACTION, SOURCE, AMOUNT, BALANCE_AFTER_TRANSACTION):
+					To Assign The Data Members Of The Class With Required Literals From The Argument.
+				
+				File_Write(USERNAME):
+					To Write The Object Of This Class To The User's Passbook File, Which Is In Text File(.txt) Format.
+	**********************************************************************************************************************************
+	
+	Details() :
+		
+		Private Member(s) :
+			
+			Data Member(s) : 
+				
+				str :
+					username -> To Store The Username Of The User.
+					password -> To Store The Password Of The User.
+					phone_no -> To Store The Phone Number Of The User.
+					
+			Member Function(s) :
+			
+				NONE
+		
+		Public Member(s) :
+			
+			Data Member(s) :
+			
+				NONE
+			
+			Member Function(s) :
+			
+				From_File_Username(USERNAME):
+					Checks Whether The USERNAME Is Present In The usernames.svbk File.
+				
+				From_File_Password(PASSWORD):
+					Checks Whether The PASSWORD Is Present In The passwords.svbk File.
+					
+				From_File_Phone_No(PHONE_NO):
+					Checks Whether The PHONE_NO Is Present In The phone_no.svbk File.
+					
+				Assign(USERNAME, PASSWORD, PHONE_NO):
+					To Assign The Data Members Of The Class With Required Literlas From The Argument.
+				
+				File_Write():
+					Writes The username, password And phone_no To The Files usernames.svbk, passwords.svbk and phone_no.svbk Respectively.
+					
+				def Modifying(value, option, old):
+					Modifies The old Values In The Files (usernames.svbk, passwords.svbk or phone_no.svbk) With The New Value According To The Given option.
+	************************************************************************************************************************************************************************
+	
+	User() : 
+		
+		Private Member(s) :
+		
+			Data Member(s) :
+			
+				int :
+					transactions -> To Store The Total No. Of Transactions Made By The User.
+					balance -> To Store The Account Balance Of The User.
+				
+				str :
+					name -> To Store The Name Of The User.
+					phone_no -> To Store The Phone Number Of The User.
+					username -> To Store The Username Of The User.
+					password -> To Store The Password Of The User.
+					acc_creation_date -> To Store The Complete Details Of When The User Has Created His Account.
+				
+			Member Function(s) :
+			
+				NONE
+				
+		Public Member(s) : 
+		
+			Data Member(s):
+				
+				NONE
+				
+			Member Function(s) :
+				
+				Assign(NAME, PHONE_NO, USERNAME, PASSWORD, BALANCE, TRANSACTIONS, ACCOUNT_CREATION_DATE):
+					Assigns The Variables Of The Class Object With Valid Literals From The Argument.
+					
+				File_Write():
+					Writes The Object To The User's Unique Profile File Which Is An Binary File Of Format ".bku" .
+					
+				Show_Details():
+					Displays The Variables name, username, acc_creation_date And transactions In An User Friendly Way.
+
+				Show_Modifiable():
+					Displays The Variables name, username, phone_number And Password Which Are Modifiable.
+					
+				Modify(value, option):
+					Modifies The Variables With value According To The Given Option.
+					
+				Ret_Value(option):
+					Returns Either Of The Variable From The Class According To The option From Argument.
+	********************************************************************************************************************

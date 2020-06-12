@@ -1,0 +1,50 @@
+Exceptions :
+************
+	
+	InvalidOption() :
+		This Exception Is Raised When The User Enters
+		An Invalid Option Out Of The Given Options.
+	*****************************************************
+	
+	UsernameAlreadyTaken() :
+		This Exception Is Raised When The User Enters
+		An Username Which Is Already In The Database.
+	*****************************************************
+	
+	PhoneNumberAlreadyTaken() :
+		This Exception Is Raised When The User Enters
+		An Phone Number Which Is Alredy In The Database.
+	********************************************************
+	
+	InvalidUsername() :
+		This Exception Is Raised When The User Enters An
+		Username Which Is Not There In The Database.
+	********************************************************
+	
+	InvalidPassword() :
+		This Exception Is Raised When The User Inputs An
+		Password That Does Not Match With The Password 
+		Associated With The Username.
+	********************************************************
+	
+	InvalidPhoneNumber() :
+		This Exception Is Raised When The User Enters An
+		Invalid Phone Number.
+	********************************************************
+	
+	InsufficientFunds() :
+		This Exception Is Raised When The User Tries To
+		Withdraw Or Transfer More Money Than In His
+		Account Balance.
+	*******************************************************
+	
+	SameUser() :
+		This Exception Is Raised When The User Tries To
+		Transfer Money To His/Her Own Account.
+	*******************************************************
+	
+	NoUserAvailable() :
+		This Exception Is Raised When There Is One And Only
+		One User Has Created An Account.
+	***********************************************************
+	

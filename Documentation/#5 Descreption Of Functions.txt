@@ -1,0 +1,108 @@
+Functions :
+***********
+	
+	Initialise() :
+		This Functions Check Whether These 3 Files usernames.svbk, passwords.svbk
+		And phone_no.svbk Exists. If Any One Of The File Is Absent. It Creates 
+		The Missing Binary File.
+	*********************************************************************************
+		
+	Encrypt(TEXT) : 
+		This Function Encrypts The Given TEXT Using Some Algorithms Along With The
+		SHA - 256 Encryption.
+	**********************************************************************************
+	
+	Send_Message(option, name, amount, current_balance, number, name2 = "") :
+		This Function Sends SMS Notification To The number Of The Person With The 
+		name Along With Some Informative Text.
+	*********************************************************************************
+	
+	Change_Name(obj) :
+		This Function Changes The Value Of The name Variable Of The obj Of Class 
+		User().
+	********************************************************************************
+	
+	Change_Username(obj) :
+		This Function Changes The Value Of The username Variable Of The obj Of Class 
+		User() And Returns The Encrypted New Username.
+	************************************************************************************
+	
+	Change_Phone_No(obj) :
+		This Function Changes The Value Of The Variable phone_number Of The obj Of Class 
+		User().
+	****************************************************************************************
+	
+	Change_Password(obj) :
+		This Function Changes The Value Of The Variable password Of The obj Of Class User().
+	********************************************************************************************
+		
+	Settings(username) :
+		This Function Provides The Utilities Which The User Can Modify And Operates The
+		Functions According To User's Choice.
+	***************************************************************************************
+	
+	Create_Account() :
+		This Function Lets The User Create An New Account By Filling Up An Simple Form And
+		Sends SMS Notification To His/Her Phone Number.
+	******************************************************************************************
+	
+	Authentication(username, password) :
+		This Function Checks Whether The username And password Is Present In The Database. It
+		Also Checks Whether The password Is Associated With The username.
+	*********************************************************************************************
+	
+	Retrieve_Username(username) :
+		This Function Retrieves The Username Of The User If The User Has Logged In Using His/Her
+		Phone Number.
+	************************************************************************************************
+	
+	Duration_Of_Using(Start, End) :
+		This Function Calculates The Difference Between End And Start In Seconds. Finally
+		It Returns The Time In Hours:Minutes:Seconds Format.
+	*****************************************************************************************
+	
+	Account_Holders_Details(username) :
+		This Function Displays All The Details Of The Available Users.
+	**********************************************************************
+	
+	View_Passbook(username) :
+		The Passbook File Of The User With username Is Displayed.
+	*****************************************************************
+	
+	Deposit_Money(obj) :
+		This Function Lets The User To Deposit Money To His/Her Account.
+	************************************************************************
+		
+	Withdraw_Money(obj) :
+		This Function Lets The User To Withdraw Money From His/Her Account.
+	***************************************************************************
+		
+	Available_Users() :
+		This Function Returns An List Of All The Available Users Who Has An Account In The
+		Bank.
+	******************************************************************************************
+	
+	Transfer_Money(obj) :
+		This Function Displays The User With The Username Of All The Other Users. It Lets 
+		Him/Her To Send Money To Any Of The User From The Displayed Usernames.
+	*****************************************************************************************
+	
+	Payments(obj) :
+		Displays All The Types Of Payments The User Can Do And Directs The Associated Functions
+		According To His/Her Choice.
+	***********************************************************************************************
+	
+	After_Log_In(username, value) :
+		Displays All The Possible Things The User Can Do With The Bank.
+	***********************************************************************
+		
+	Login_To_Account() :
+		This Function Lets The User To Fill The Login Form. The User Will Be Provided 2 - 3 Chances
+		To Login To His Account With Valid Information.
+	***************************************************************************************************
+	
+	Main_Function() :
+		Displays The User With The 3 Main Options And Directs To The Function According To The
+		Users Choice.
+	**********************************************************************************************
+	

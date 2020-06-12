@@ -1,0 +1,68 @@
+#1
+	Module Name : os
+	Function(s)/Classes/Methods Used From The Module : path(), makedirs(), remove(), system()
+	Purpose :
+		path():
+			To Check If The Desired File Exists.
+		makedirs():
+			To Create An Directory.
+		remove():
+			To Permanently Delete An File.
+		system():
+			To Call In The System Command(s).
+				"cls" - To Clear The Console.
+				
+#2 
+	Module Name : hashlib
+	Function(s)/Classes/Methods Used From Module : sha512(),  hexdigest()
+	Purpose :
+		sha512():
+			To Convert An String Into sha512 Encrypted Object.
+		hexdigest():
+			To Convert An Encrypted Object Into String.
+			
+#3
+	Module Name : pickle
+	Function(s)/Classes/Methods Used From Module : dump(), load()
+	Purpose :
+		dump():
+			To Write An Object Of Any Data Type To 
+			An Desired Binary File.
+		load():
+			To Read An Object From An Desired Binary
+			File.
+
+#4
+	Module Name : datetime
+	Function(s)/Classes/Methods Used From Module : datetime(), strftime()
+	Purpose :
+		datetime():
+			Returns An Object Which Consists Of All The Members Related
+			To Time And Date.
+		strftime():
+			Formats The datetime() Object To An String With Required
+			Entities.
+			
+#5
+	Module Name : stdiomask
+	Function(s)/Classes/Methods Used From Module : getpass()
+	Purpose :
+		getpass():
+			To Get The Password From The User In An Hidden
+			Way.
+
+#6
+	Module Name : time
+	Function(s)/Classes/Methods Used From Module : perf_counter()
+	Purpose :
+		perf_counter():
+			Counts The Time In Seconds And Returns In Float Type.
+
+#7
+	Module Name : requests
+	Function(s)/Classes/Methods Used From Module : request()
+	Purpose : 
+		request():
+			To Fill In The Forms Of An Specific Websites.
+	
+	
