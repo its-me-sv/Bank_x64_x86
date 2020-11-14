@@ -1,5 +1,5 @@
-<h1>Banking Project - Command Line</h1><hr>
-<h3 id="toc">Table Of Contents</h3>
+<h1 id="top">Banking Project - Command Line</h1><hr>
+<h3>Table Of Contents</h3>
 <a href="#sf">Special Features</a><br>
 <a href="#glry">Gallery</a><br>
 <a href="#docs">Documentation</a><br>
@@ -51,4 +51,4 @@ The File("Documentation.rar") Includes The Documentation For The Following:<br>
 <a href="Documentation.rar">Download The Complete Documentation</a><br>
 <a href="Bank_x86_x64.py">Download Bank_x86_x64.py [main]</a><br>
 <hr>
-<a href="#toc">Go To Table Of Contents</a>
+<a href="#top">Go To Table Of Contents</a>
