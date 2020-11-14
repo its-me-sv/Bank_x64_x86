@@ -1,0 +1,53 @@
+h3{
+	margin-top: 3em;
+}
+.btn, .no-btn{
+	color: black;
+	border-radius: 42px;
+}
+.btn:hover{
+	color: white;
+}
+.grad-insta{
+	background-image: linear-gradient(-225deg, #FF057C 0%, #7C64D5 48%, #4CC3FF 100%);
+}
+.grad-blue{
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.grad-green{
+	background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+.grad-yellow{
+	background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.grad-purple{
+	background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+.grad-baby-pink{
+	background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+}
+.grad-sea-blue{
+	background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+}
+.grad-sweet{
+	background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+}
+.grad-love{
+	background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+.grad-phoneix{
+	background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+.grad-cobra-green{
+	background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+hr{
+	height: 6px;
+	border-radius: 20px;
+}
+.hidden{
+	display:none;
+}
+.p{
+	color: white;
+}
