@@ -44,8 +44,8 @@ The File("Documentation.rar") Includes The Documentation For The Following:<br>
     <li>Exceptions</li>
     <li>Classes</li>
     <li>Functions</li>
-</ul>
+</ul><hr>
 <h3 id="downloads">Downloads</h3>
-<a href="Bank_x86_x64.exe" download>Download Standalone Executable</a><br>
-<a href="Snips.rar" download>Download Gallery</a><br>
-<a href="Documentation.rar" download>Download The Complete Documentation</a><br>
+<a href="Bank_x86_x64.exe">Download Standalone Executable</a><br>
+<a href="Snips.rar">Download Gallery</a><br>
+<a href="Documentation.rar">Download The Complete Documentation</a><br>
