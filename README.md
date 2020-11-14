@@ -23,17 +23,17 @@
     Will Be Displayed.</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="Snips/1.png">
-<img src="Snips/2.png">
-<img src="Snips/3.png">
-<img src="Snips/4.png">
-<img src="Snips/5.png">
-<img src="Snips/6.png">
-<img src="Snips/7.png">
-<img src="Snips/8.png">
-<img src="Snips/9.png">
-<img src="Snips/10.png">
-<img src="Snips/11.png">
-<img src="Snips/12.png">
-<img src="Snips/13.png">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/1.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/2.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/3.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/4.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/5.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/6.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/7.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/8.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/9.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/10.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/11.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/12.PNG">
+<img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/13.PNG">
 <hr>
