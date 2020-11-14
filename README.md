@@ -38,3 +38,10 @@
 <img src="https://github.com/its-me-sv/Bank_x64_x86/raw/master/Snips/13.PNG">
 <hr>
 <h3 id="docs">Documentation</h3>
+The File("Documentation.rar") Includes The Documentation For The Following:<br>
+<ul>
+    <li>Special Features</li>
+    <li>Exceptions</li>
+    <li>Classes</li>
+    <li>Functions</li>
+</ul>
