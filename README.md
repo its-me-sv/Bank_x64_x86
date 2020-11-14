@@ -1,6 +1,6 @@
 <h1 id="top">Banking Project - Command Line</h1><hr>
 <h3>Table Of Contents</h3>
-<a href="#sf">Special Features</a>
+<a href="#sf">Special Features</a><br>
 <a href="#glry">Gallery</a><br>
 <a href="#docs">Documentation</a><br>
 <a href="#downloads">Downloads</a><br><hr>
