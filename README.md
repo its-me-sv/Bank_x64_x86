@@ -45,3 +45,7 @@ The File("Documentation.rar") Includes The Documentation For The Following:<br>
     <li>Classes</li>
     <li>Functions</li>
 </ul>
+<h3 id="downloads">Downloads</h3>
+<a href="Bank_x86_x64.exe" download>Download Standalone Executable</a><br>
+<a href="Snips.rar" download>Download Gallery</a><br>
+<a href="Documentation.rar" download>Download The Complete Documentation</a><br>
